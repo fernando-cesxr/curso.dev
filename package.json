@@ -1,0 +1,24 @@
+{
+  "name": "curso.dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernando-cesxr/curso.dev.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernando-cesxr/curso.dev/issues"
+  },
+  "homepage": "https://github.com/fernando-cesxr/curso.dev#readme",
+  "description": "",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
